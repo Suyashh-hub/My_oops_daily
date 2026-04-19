@@ -21,6 +21,7 @@ public class Practice3_4 {
         } else {
             System.out.println("The string does not contain triple spaces.");
         }
+        scanner.close();
     }
 
 }

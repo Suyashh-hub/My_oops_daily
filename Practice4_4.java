@@ -14,5 +14,6 @@ public class Practice4_4 {
         } else {
             System.out.println(year + " is not a Leap Year");
         }
+        sc.close();
     }
 }
